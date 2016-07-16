@@ -1,0 +1,15 @@
+<root>
+  <showscene scene="metamorfose" gid="test" />
+  <text gid="kevedava" text="Заведение было небольшим, но очень уютным. В нос тут же ударил аромат кофе. " />
+  <shownpc gid="qerijuze" npc="ksenon" pos="center" />
+  <sayleft gid="yibawive" text="Это и есть Ксенон Морфеус" />
+  <saynpc gid="nibadobu" npc="ksenon" text="Дори, какими судьбами?!" />
+  <block>
+    <movenpc gid="zemiviri" npc="ksenon" pos="right" />
+    <shownpc gid="qogavisu" npc="miller" pos="udef" />
+    <shownpc gid="noparoho" npc="evelin" pos="udef" />
+  </block>
+  <saynpc gid="hujoboka" npc="ksenon" text="Да еще и с очаровательной спутницей. И почему я не удивлен?" />
+  <saynpc gid="qepukinu" npc="miller" text="Сколько раз говорить, не называй меня Дори!" />
+  <saynpc gid="xopemuce" npc="ksenon" text="Никогда не доверяйте этому человеку, леди! И вообще, лучше не связывайтесь с ним!" emotion="smile2" />
+</root>

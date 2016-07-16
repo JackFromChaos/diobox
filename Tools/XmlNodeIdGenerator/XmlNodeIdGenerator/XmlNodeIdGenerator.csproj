@@ -51,6 +51,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="XmlNodeIdGen.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\ReadMe.txt" />
